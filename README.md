@@ -8,7 +8,7 @@ I am Mushfiqur Rahman Apon. I have a company .My company name is kl IT company .
 
 Skills:  JS / HTML / CSS/POYTHON/DJANGO
 
-- 🔭 I’m currently working on leeryit 
+- 🔭 I’m currently working on leeryit
 - 🌱 I’m currently learning python 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web Development 
