@@ -6,7 +6,7 @@
 I am Mushfiqur Rahman Apon. I have a company .My company name is kl IT company . I am the CEO of this company. 
 
 
-Skills:  JS / HTML / CSS/POYTHON/DJANGO/C /C++ for DSA
+Skills:  JS / HTML / CSS/POYTHON/DJANGO/C /C++ for DSA /
 
 - 🔭 I’m currently working on codivoo technologies
 - 🌱 I’m currently learning python 
