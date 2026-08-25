@@ -11,4 +11,3 @@ Skills:  JS / HTML / CSS/POYTHON/DJANGO/C /C++ for DSA /
 - 🔭 I’m currently working on codivoo technologies
 - 🌱 I’m currently learning python 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web Development 
