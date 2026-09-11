@@ -4,6 +4,7 @@
 
 
 I am Mushfiqur Rahman Apon. I have a company .My company name is kl IT company . I am the CEO of this company. 
+I work from Home
 
 
 Skills:  JS / HTML / CSS/POYTHON/DJANGO/C /C++ for DSA / Algorithms
